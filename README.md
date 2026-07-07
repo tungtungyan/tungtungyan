@@ -78,3 +78,16 @@ linkedin.com/in/nikkie-leung
 
 Email:
 nikkieytl@gmail.com
+
+---
+
+## Current Focus
+
+I'm interested in research and engineering opportunities related to:
+
+- Robotics Navigation
+- Autonomous Systems
+- SLAM
+- Spatial AI
+- Embodied AI
+- Robot Perception
