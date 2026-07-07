@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Yan Tung (Nikkie) Leung 👋
 
-<!--
-**tungtungyan/tungtungyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & Autonomous Systems Researcher
 
-Here are some ideas to get you started:
+MPhil in Autonomous Systems @ The Hong Kong Polytechnic University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+
+- Robotics Navigation
+- SLAM
+- Localization
+- LiDAR Perception
+- Multi-Sensor Fusion
+- ROS / ROS2
+- Autonomous Vehicles
+- Spatial AI
+
+---
+
+## Research Interests
+
+My research focuses on building robust autonomous robotic systems capable of understanding and navigating complex real-world environments.
+
+Current interests include:
+
+- Visual & LiDAR SLAM
+- Multi-Sensor Fusion
+- Robotic Navigation
+- Point Cloud Processing
+- AI for Robotics
+- Human-Robot Interaction
+
+---
+
+## Technical Skills
+
+Programming
+
+- C++
+- Python
+- MATLAB
+
+Robotics
+
+- ROS
+- ROS2
+- SLAM
+- Localization
+- Sensor Fusion
+
+Sensors
+
+- LiDAR
+- Camera
+- IMU
+- GPS
+
+Tools
+
+- Linux
+- Git
+- SolidWorks
+
+---
+
+## Publication
+
+**Cost-effective Camera Localization Aided by Prior Point Cloud Maps for Level 3 Autonomous Driving Vehicles**
+
+ISPRS Archives 2023
+
+---
+
+## Connect with Me
+
+LinkedIn:
+linkedin.com/in/nikkie-leung
+
+Email:
+nikkieytl@gmail.com
